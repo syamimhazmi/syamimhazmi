@@ -1,11 +1,13 @@
-[![Github](https://img.shields.io/github/followers/syamimhazmi?label=Follow&style=social)](https://github.com/syamimhazmi)
+### Hi, I'm Syamim 👋
 
-- 🔍 Deepening my knowledge in **Algorithms and Data Structures**
-- 🌱 I’m currently learning **Go and Rust**
+I build command-line tools and TUIs in Rust.
+By day: senior backend engineer (PHP/Laravel, Redis, AWS ECS, payments).
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syamimhazmi&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syamimhazmi&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syamimhazmi&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syamimhazmi&theme=rose_pine)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syamimhazmi&theme=rose_pine)
+**Currently building**
 
+- [jentayu](https://github.com/syamimhazmi/jentayu): real-time CPU, memory, disk and network monitor for host processes and Docker containers (TUI, Prometheus, JSON)
+- [polyforge](https://github.com/syamimhazmi/polyforge): Vim-modal multi-tab TUI for coding agents
+- [taqwim-pdf-extractor](https://github.com/syamimhazmi/taqwim-pdf-extractor): extracts monthly prayer timetables from PDF to XLSX or CSV
+- [stale-archiver](https://github.com/syamimhazmi/stale-archiver): finds files unused for N months, groups them and archives them into zips
+
+**Stack:** Rust · PHP/Laravel · Redis · AWS (ECS) · Docker
